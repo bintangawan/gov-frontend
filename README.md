@@ -1,17 +1,9 @@
-Tentu, ini adalah file **`README.md`** lengkap yang menggabungkan semua informasi proyek **GovSys** (Backend & Frontend) menjadi satu dokumen yang rapi dan profesional.
-
-Silakan simpan kode di bawah ini dengan nama file `README.md` di folder paling luar (root) proyek kamu.
-
----
-
-```markdown
 # GovSys - Sistem Manajemen Layanan Digital Pemerintahan
 
 **GovSys** adalah platform layanan publik digital berbasis web yang modern dan responsif. Sistem ini dirancang untuk memfasilitasi interaksi antara instansi pemerintahan (Admin) dan masyarakat (Citizen) dalam pengelolaan dan pengajuan layanan publik secara digital.
 
 Sistem ini mendukung **Autentikasi Hybrid** (Google OAuth + Manual Login), **Role-Based Access Control** (RBAC), dan antarmuka yang ramah pengguna.
 
-![GovSys Preview](https://via.placeholder.com/800x400?text=GovSys+Dashboard+Preview)
 
 ---
 
